@@ -1,4 +1,7 @@
 # ShulaTech_Solution_Expense_Tracker_Kumar
+expense tracker using html css javascript
+
+
 
 
 <!DOCTYPE html>
